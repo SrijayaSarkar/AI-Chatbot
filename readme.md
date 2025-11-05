@@ -73,8 +73,8 @@ AI-ChatBot/
 ## 👩‍💻 Credits
 
 **Contributors:**
-- [Ankit Mishra](https://github.com/Coder-Ankit-MCA)
 - [Srijaya Sarkar](https://github.com/SrijayaSarkar)
+- [Ankit Mishra](https://github.com/Coder-Ankit-MCA)
 
 **Special Thanks:** OpenAI for providing the GPT API
 
